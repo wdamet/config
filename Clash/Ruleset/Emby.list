@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,niceduck.lol
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,xxlb.net
-DOMAIN-KEYWORD,69yun
+DOMAIN-SUFFIX,69yun69.com
 IP-CIDR,103.37.45.194/32
 PROCESS-PATH,C:\Program Files\Emby Theater\Emby Theater\x64\electron\electron.exe
+PROCESS-NAME,com.hush.yamby
